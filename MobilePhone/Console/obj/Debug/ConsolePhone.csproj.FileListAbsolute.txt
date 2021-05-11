@@ -1,0 +1,10 @@
+C:\Users\xddan\OneDrive\Рабочий стол\MobilePhone\Console\bin\Debug\Console.exe.config
+C:\Users\xddan\OneDrive\Рабочий стол\MobilePhone\Console\bin\Debug\Console.exe
+C:\Users\xddan\OneDrive\Рабочий стол\MobilePhone\Console\bin\Debug\Console.pdb
+C:\Users\xddan\OneDrive\Рабочий стол\MobilePhone\Console\bin\Debug\MobilePhoneLib.dll
+C:\Users\xddan\OneDrive\Рабочий стол\MobilePhone\Console\bin\Debug\MobilePhoneLib.pdb
+C:\Users\xddan\OneDrive\Рабочий стол\MobilePhone\Console\obj\Debug\ConsolePhone.csprojAssemblyReference.cache
+C:\Users\xddan\OneDrive\Рабочий стол\MobilePhone\Console\obj\Debug\ConsolePhone.csproj.CoreCompileInputs.cache
+C:\Users\xddan\OneDrive\Рабочий стол\MobilePhone\Console\obj\Debug\ConsolePhone.csproj.CopyComplete
+C:\Users\xddan\OneDrive\Рабочий стол\MobilePhone\Console\obj\Debug\Console.exe
+C:\Users\xddan\OneDrive\Рабочий стол\MobilePhone\Console\obj\Debug\Console.pdb

@@ -1,0 +1,6 @@
+C:\Users\xddan\OneDrive\Рабочий стол\MobilePhone\MobilePhone\obj\Debug\MobilePhoneLib.csproj.CoreCompileInputs.cache
+C:\Users\xddan\OneDrive\Рабочий стол\MobilePhone\MobilePhone\bin\Debug\MobilePhoneLib.dll
+C:\Users\xddan\OneDrive\Рабочий стол\MobilePhone\MobilePhone\bin\Debug\MobilePhoneLib.pdb
+C:\Users\xddan\OneDrive\Рабочий стол\MobilePhone\MobilePhone\obj\Debug\MobilePhoneLib.dll
+C:\Users\xddan\OneDrive\Рабочий стол\MobilePhone\MobilePhone\obj\Debug\MobilePhoneLib.pdb
+C:\Users\xddan\OneDrive\Рабочий стол\MobilePhone\MobilePhone\obj\Debug\MobilePhoneLib.csprojAssemblyReference.cache
